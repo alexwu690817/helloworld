@@ -14,6 +14,7 @@ public class HelloWorld {
 		System.out.println("summation from 1 to 10 is: "+sum);
 	}
 	// add f1 to dev1
+	feature1.init();
 
 	// add f2 to dev2
 	
