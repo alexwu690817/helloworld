@@ -16,5 +16,6 @@ public class HelloWorld {
 	// add f1 to dev1
 
 	// add f2 to dev2
+	feature2.init();
 	
 }
