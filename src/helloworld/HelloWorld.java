@@ -17,5 +17,6 @@ public class HelloWorld {
 	feature1.init();
 
 	// add f2 to dev2
+	feature2.init();
 	
 }
