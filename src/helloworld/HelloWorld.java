@@ -21,4 +21,5 @@ public class HelloWorld {
 
 	// add f3 from temp clone
 	feature3.init();
+	feature3.start();
 }
